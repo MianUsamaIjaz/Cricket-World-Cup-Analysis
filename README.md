@@ -1,5 +1,5 @@
 # ICC Men's T20-Cricket World Cup 2022 Data Analytics
-![ICC men's t20](t20.jpeg)
+![ICC men's t20](images/t20.jpeg)
 
 ## Problem Statement :
 
@@ -72,32 +72,32 @@ Data visualization for the dataset was done using Microsoft Power BI Desktop:
 
 |    Openers      |
 | --------------- |
-|![2022 T20 Cricket World Cup Dashboard- Best Final 11-2](openers.png)|
+|![2022 T20 Cricket World Cup Dashboard- Best Final 11-2](images/openers.png)|
 
 
  | Middle Order |
  | --------------- |
-|![2022 T20 Cricket World Cup Dashboard- Best Final 11-3](middle_order.png)|
+|![2022 T20 Cricket World Cup Dashboard- Best Final 11-3](images/middle_order.png)|
 
 
  | Finisher |
  | --------------- |
-|![2022 T20 Cricket World Cup Dashboard- Best Final 11-4](finisher.png)|
+|![2022 T20 Cricket World Cup Dashboard- Best Final 11-4](images/finisher.png)|
 
 
 | All Rounder |
 | --------------- |
-|![2022 T20 Cricket World Cup Dashboard- Best Final 11-5](all_rounder.png)|
+|![2022 T20 Cricket World Cup Dashboard- Best Final 11-5](images/all_rounder.png)|
 
 
 | Specilist Fast Bolwers |
 | --------------- |
-|![2022 T20 Cricket World Cup Dashboard- Best Final 11-6](fast_bowler.png)|
+|![2022 T20 Cricket World Cup Dashboard- Best Final 11-6](images/fast_bowler.png)|
 
 
 | Final Best 11 Players |
 | --------------- |
-|![2022 T20 Cricket World Cup Dashboard- Best Final 11-8](best_11.png)|
+|![2022 T20 Cricket World Cup Dashboard- Best Final 11-8](images/best_11.png)|
 
 
 ## Tools, Software and Libraries :
