@@ -1,5 +1,5 @@
 # ICC Men's T20-Cricket World Cup 2022 Data Analytics
-![ICC mEN'S t20](https://user-images.githubusercontent.com/118357991/t20.jpeg)
+![ICC men's t20](t20.jpeg)
 
 ## Problem Statement :
 
@@ -10,7 +10,7 @@ In This project Created a Power BI Dashboard which helps to review and compare p
 Scrapped all the data regarding match and world cup from www.espncricinfo.com and all details of player career performace.
 
 ## Data Collection:
-Scrapped all the data regarding match and world cup and all details about players career from [brightdata](https://brightdata.com/) using Beautiful Soup library and Jupyter Notebook is used to convert the json files into the dataframes and then these dataframes into csv file for further data analysis on power bi.
+Scrapped all the data regarding match and world cup and all details about players career with Python using Beautiful Soup, Selenium and Jupyter Notebook. Converted the json files into the dataframes and then these dataframes into csv file for further data analysis on Power BI.
 
 ## Data Transformation:
 Performed initial data cleaning after scrapping such as player name correction, handle missing value, match id linking etc. using Pandas. Transformed the final data for dashboard using Power Query of Power BI.
@@ -72,32 +72,32 @@ Data visualization for the dataset was done using Microsoft Power BI Desktop:
 
 |    Openers      |
 | --------------- |
-|![2022 T20 Cricket World Cup Dashboard- Best Final 11-2](https://user-images.githubusercontent.com/openers.png)|
+|![2022 T20 Cricket World Cup Dashboard- Best Final 11-2](openers.png)|
 
 
  | Middle Order |
  | --------------- |
-|![2022 T20 Cricket World Cup Dashboard- Best Final 11-3](https://user-images.githubusercontent.com/middle_order.png)|
+|![2022 T20 Cricket World Cup Dashboard- Best Final 11-3](middle_order.png)|
 
 
  | Finisher |
  | --------------- |
-|![2022 T20 Cricket World Cup Dashboard- Best Final 11-4](https://user-images.githubusercontent.com/finisher.png)|
+|![2022 T20 Cricket World Cup Dashboard- Best Final 11-4](finisher.png)|
 
 
 | All Rounder |
 | --------------- |
-|![2022 T20 Cricket World Cup Dashboard- Best Final 11-5](https://user-images.githubusercontent.com/all_rounder.png)|
+|![2022 T20 Cricket World Cup Dashboard- Best Final 11-5](all_rounder.png)|
 
 
 | Specilist Fast Bolwers |
 | --------------- |
-|![2022 T20 Cricket World Cup Dashboard- Best Final 11-6](https://user-images.githubusercontent.com/fast_bowler.png)|
+|![2022 T20 Cricket World Cup Dashboard- Best Final 11-6](fast_bowler.png)|
 
 
 | Final Best 11 Players |
 | --------------- |
-|![2022 T20 Cricket World Cup Dashboard- Best Final 11-8](https://user-images.githubusercontent.com/best_11.png)|
+|![2022 T20 Cricket World Cup Dashboard- Best Final 11-8](best_11.png)|
 
 
 ## Tools, Software and Libraries :
