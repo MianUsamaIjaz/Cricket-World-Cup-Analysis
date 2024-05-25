@@ -110,7 +110,7 @@ Data visualization for the dataset was done using Microsoft Power BI Desktop:
 
 4.Webscraping
 
-5.Beautifull Soup
+5.Beautiful Soup
 
 6.Selenium
 
